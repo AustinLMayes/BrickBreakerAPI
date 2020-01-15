@@ -1,0 +1,13 @@
+com/github/austinlmayes/bbapi/POJOConverter.class
+com/github/austinlmayes/bbapi/data/level/LevelConverter.class
+com/github/austinlmayes/bbapi/data/DataManager.class
+com/github/austinlmayes/bbapi/data/level/LevelController.class
+com/github/austinlmayes/bbapi/data/score/ScoreReportConverter.class
+com/github/austinlmayes/bbapi/data/blacklist/BlacklistController.class
+com/github/austinlmayes/bbapi/data/blacklist/BlacklistConverter.class
+com/github/austinlmayes/bbapi/Application.class
+com/github/austinlmayes/bbapi/data/FileDataManager.class
+com/github/austinlmayes/bbapi/data/score/ScoreReport.class
+com/github/austinlmayes/bbapi/data/score/ScoreController.class
+com/github/austinlmayes/bbapi/data/level/Level.class
+com/github/austinlmayes/bbapi/data/blacklist/Blacklist.class
